@@ -2,4 +2,6 @@
 
 ------
 
-A collection of random fun practice with python.
+A collection of my random fun practice with python3.
+
+Used python version >= Python 3.6 
